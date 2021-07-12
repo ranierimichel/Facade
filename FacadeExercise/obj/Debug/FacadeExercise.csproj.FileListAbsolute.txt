@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\FacadeExercise\bin\Debug\FacadeExercise.exe.config
+C:\Users\Ranieri\Desktop\FacadeExercise\bin\Debug\FacadeExercise.exe
+C:\Users\Ranieri\Desktop\FacadeExercise\bin\Debug\FacadeExercise.pdb
+C:\Users\Ranieri\Desktop\FacadeExercise\obj\Debug\FacadeExercise.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\FacadeExercise\obj\Debug\FacadeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\FacadeExercise\obj\Debug\FacadeExercise.exe
+C:\Users\Ranieri\Desktop\FacadeExercise\obj\Debug\FacadeExercise.pdb
